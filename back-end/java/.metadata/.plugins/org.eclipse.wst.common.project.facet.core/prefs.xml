@@ -5,5 +5,12 @@
         <attribute name="2.0" value="jaxrs-no-op-library-provider"/>
       </node>
     </node>
+    <node name="user.library.provider">
+      <node name="last.used.libraries">
+        <node name="2.0">
+          <node name="JAX-RS with Jersey"/>
+        </node>
+      </node>
+    </node>
   </facet>
 </root>
