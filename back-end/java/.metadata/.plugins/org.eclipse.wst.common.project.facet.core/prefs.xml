@@ -2,13 +2,13 @@
   <facet id="jst.jaxrs">
     <node name="libprov">
       <node name="last-provider-used">
-        <attribute name="2.0" value="jaxrs-no-op-library-provider"/>
+        <attribute name="2.0" value="jaxrs-user-library-provider"/>
       </node>
     </node>
     <node name="user.library.provider">
       <node name="last.used.libraries">
         <node name="2.0">
-          <node name="JAX-RS with Jersey"/>
+          <node name="Jersey REST Service"/>
         </node>
       </node>
     </node>

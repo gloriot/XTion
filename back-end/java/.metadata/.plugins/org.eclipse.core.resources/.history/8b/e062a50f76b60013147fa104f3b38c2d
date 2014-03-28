@@ -1,0 +1,5 @@
+package com.xuanwu.xtion.restful.api;
+
+public class hello {
+
+}

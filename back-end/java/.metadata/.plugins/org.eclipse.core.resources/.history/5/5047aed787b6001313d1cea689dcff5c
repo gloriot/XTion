@@ -1,0 +1,20 @@
+package com.xuanwu.xtion;
+
+import javax.ws.rs.ApplicationPath;
+import javax.ws.rs.GET;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.Response;
+
+import org.glassfish.jersey.server.ResourceConfig;
+
+@ApplicationPath("/api")
+public class app extends ResourceConfig {
+    public app() {
+    	packages("com.xuanwu.xtion.api");
+    }
+    @GET
+    @Produces("text/plain")
+    public Response wellcome() {
+        return Response.ok("Hey, it's working!\n").build();
+    }
+}

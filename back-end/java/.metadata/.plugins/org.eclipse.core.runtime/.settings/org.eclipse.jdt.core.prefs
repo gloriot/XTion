@@ -16,3 +16,4 @@ org.eclipse.jdt.core.compiler.source=1.7
 org.eclipse.jdt.core.compiler.taskCaseSensitive=enabled
 org.eclipse.jdt.core.compiler.taskPriorities=NORMAL,HIGH,NORMAL
 org.eclipse.jdt.core.compiler.taskTags=TODO,FIXME,XXX
+org.eclipse.jdt.core.userLibrary.Jersey\ REST\ Service=<?xml version\="1.0" encoding\="UTF-8"?>\n<userlibrary systemlibrary\="false" version\="2">\n\t<archive path\="/home/changyingwei/Downloads/JAVA/jaxrs-ri/api/javax.ws.rs-api-2.0.jar"/>\n</userlibrary>\n

@@ -1,0 +1,13 @@
+package com.xuanwu.xtion.api;
+
+import javax.ws.rs.Path;
+
+@Path("/hello")
+public class hello {
+	@GET
+    @Produces("text/plain")
+    @Interceptors(MyInterceptor.class)
+    public String getIt() {
+        return "Hi managedbean!";
+    }
+}

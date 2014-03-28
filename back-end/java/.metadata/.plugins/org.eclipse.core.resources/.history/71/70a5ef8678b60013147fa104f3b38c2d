@@ -1,0 +1,6 @@
+package com.xuanwu.xtion.api;
+
+@Path("/cdibean")
+public class hello {
+
+}

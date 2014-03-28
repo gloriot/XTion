@@ -1,0 +1,12 @@
+package com.xuanwu.xtion;
+
+import javax.ws.rs.ApplicationPath;
+import org.glassfish.jersey.server.ResourceConfig;
+
+@ApplicationPath("/api")
+public class app extends ResourceConfig {
+    public app() {
+    	register(new RestBinder());
+        packages("com.xuanwu.xtion.api");
+    }
+}

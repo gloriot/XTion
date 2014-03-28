@@ -1,0 +1,11 @@
+package com.xuanwu.xtion;
+
+import javax.ws.rs.ApplicationPath;
+import org.glassfish.jersey.server.ResourceConfig;
+
+@ApplicationPath("api")
+public class app extends ResourceConfig {
+    public app() {
+        packages("org.foo.rest;org.bar.rest");
+    }
+}
