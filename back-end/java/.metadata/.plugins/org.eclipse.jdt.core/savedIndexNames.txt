@@ -16,7 +16,6 @@ INDEX VERSION 1.126+/home/changyingwei/Desktop/XtionPlatform/back-end/java/.meta
 2382633464.index
 843084814.index
 2148822529.index
-2758766105.index
 2719438187.index
 2663746847.index
 3201740995.index
