@@ -1,0 +1,11 @@
+/*
+ *author:weichangying
+ *date:2014-03-29
+ *remark:this is a demo of restful api,when the app is running,
+ *       you can type the http://localhost:8080/api/hello to see it how to work!
+ */
+package com.xuanwu.xtion.web.drivers;
+
+public class db2 {
+
+}
