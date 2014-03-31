@@ -1,0 +1,21 @@
+/*
+ *author:weichangying
+ *date:2014-03-29
+ *remark:the dirver for db2 database.
+ */
+package com.xuanwu.xtion.web.infrastructure;
+
+public class DynamicProxy {
+  
+  public void OnEntry(){
+	  
+  }
+  
+  public void OnExit(){
+	  
+  }
+  
+  public void OnException(){
+	  
+  }
+}

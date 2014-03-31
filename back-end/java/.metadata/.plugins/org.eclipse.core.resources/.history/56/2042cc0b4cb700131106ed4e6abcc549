@@ -1,0 +1,8 @@
+package com.xuanwu.xtion.web.infrastructure;
+
+public class DynamicProxy {
+  
+	public void OnEntry(){
+	  
+  }
+}

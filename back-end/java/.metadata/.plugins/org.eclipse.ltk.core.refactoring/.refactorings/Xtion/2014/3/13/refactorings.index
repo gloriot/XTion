@@ -38,3 +38,35 @@
 1396021311364	Delete element
 1396021315855	Delete element
 1396022057255	Delete element
+1396100750997	Rename type 'AbstractDriver'
+1396100795173	Rename type 'db2'
+1396100816697	Rename type 'DriverAbstract'
+1396100837637	Rename type 'mssql'
+1396100851658	Rename type 'mysql'
+1396100868943	Rename type 'oracle'
+1396100888501	Rename type 'pgsql'
+1396100952315	Rename type 'PGSQL'
+1396100972813	Rename type 'PgSql'
+1396100984246	Rename type 'ORACLE'
+1396101007711	Rename type 'MYSQL'
+1396101021177	Rename type 'MSSQL'
+1396101037614	Rename type 'DB2'
+1396101065062	Delete element
+1396101321027	Delete element
+1396101441737	Rename type 'db2'
+1396101470633	Rename type 'DriverInterface'
+1396101505793	Rename type 'mssql'
+1396101532191	Rename type 'mysql'
+1396101548211	Rename type 'oracle'
+1396101567106	Rename type 'pgsql'
+1396101601857	Rename type 'base'
+1396101613779	Rename type 'hello'
+1396101631050	Rename type 'main'
+1396101646980	Rename type 'app'
+1396102059909	Delete element
+1396110094558	Delete element
+1396110150179	Rename type 'DriverForMSSQL'
+1396110169465	Rename type 'DriverForMYSQL'
+1396110189417	Rename type 'DriverForORACLE'
+1396110212362	Rename type 'DriverForPGSQL'
+1396110549630	Delete element
